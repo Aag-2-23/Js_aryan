@@ -29,6 +29,11 @@ let marks; // undefined datatype
 //! Non-Primitive Datatype
 // object
 
-//! Tricky Question .
+// ! Concept of typeof in js 
+let datatype
+console.log(typeof "string") //* it shows typeof given value
+console.log(typeof datatype) //* it shows typeof datatype
+
+//! Tricky Question.(for interview)
 console.log(typeof undefined); // undefined 
 console.log(typeof null); // Note : object (we will be discuss about it.)
