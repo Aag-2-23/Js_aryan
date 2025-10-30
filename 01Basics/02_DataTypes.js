@@ -24,7 +24,7 @@ let marks; // undefined datatype
 // boolean => true/false
 // null => standalone value
 // undefined => value is not assigned yet.
-// symbol => use to show unique 
+// symbol => use to show unique (we will use this in React.)
 
 //! Non-Primitive Datatype
 // object
