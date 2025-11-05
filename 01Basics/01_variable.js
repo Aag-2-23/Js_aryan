@@ -2,6 +2,12 @@ const accountid = 123455;
 let accountName = "Aryan"; //* use always let variable because it has a block scope.
 // CONST & LET is part of New version ES6
 
+// laws to declare a variable.
+let a = "ad"
+let _a = "addx"
+let $a = "wdcef"
+// let 33s = " sdwsd" //! is not allowed for more laws and interview Qs use hand written notes.
+
 var accountPass = "12345"; //* don't use var variable because it has a function scope.
 // part of old virsion
 
