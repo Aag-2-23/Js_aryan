@@ -23,3 +23,4 @@ console.table([accountid,accountName,accountPass,EnrollNo]); //* whenever we wan
  
 
 //! Note : JavaScript is dynamically typed, meaning — You don’t need to specify the type — it changes automatically based on the value.
+// * constant can not change after assign a value.
