@@ -50,4 +50,3 @@ else {
     use ternory instead of this
 */ 
 
-// 2
