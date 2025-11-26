@@ -35,3 +35,12 @@ console.log(undefined == 0)
 | `<=`     | Less than or equal to                  | `5 <= 8`    | `true`  |
 
 */
+
+/*
+list Of operator 
+
+1. arithmatic operator --> + , - , * , / , % , ** , ++ , -- 
+2. assignment operator --> = ,+=,-=,*=,/=,%=,**=
+3. comparision operator --> == , != , === , !==, > ,>= , <, <=, (condition ? execute1 : execute2 ;)
+4. logical operator --> && , || , !
+*/ 

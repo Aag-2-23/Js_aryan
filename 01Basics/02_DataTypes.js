@@ -27,7 +27,7 @@ let marks; // undefined datatype
 // symbol => use to show unique (we will use this in React.)
 
 //! Non-Primitive Datatype
-// object
+//  array string object
 
 // ! Concept of typeof in js 
 let datatype
